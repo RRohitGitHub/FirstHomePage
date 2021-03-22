@@ -36,3 +36,17 @@ h1{
     margin-right: auto;
     padding: 0 20px;
 }
+
+.col{
+    display:flex;
+}
+
+.sidebar{
+    margin-left: 20px;
+    background:#9ae84f;
+    padding: 15px;
+}
+
+.right-child{
+    margin-left: 20px;
+}
