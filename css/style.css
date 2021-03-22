@@ -1,0 +1,27 @@
+img{
+    height: 300px;
+}
+
+body{
+    margin:0;
+}
+
+header{
+    background: #281B2D;
+    color:#fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    font-size: 72px;
+    margin:0;
+}
+
+.subhead{
+    color:#FCD801;
+    background: #281B2D;
+    font-size: 40px;
+    border-bottom: solid 10px #00C54C;
+    padding: 20px 20px;
+}
